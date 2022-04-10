@@ -1,0 +1,5 @@
+# Height and Width
+[[HTML & CSS]]
+---
+
+You can alter the height and width of an element in multiple different ways. You can either put it in your style section at the top of your page, as a tag insde of your code, or on a separate css page. The height and width properties are used to set the height and width of an element. You can set the height and width either to auto which lets the browser decide the dimensions of the element or you can specify it by using units like px, rem, or %. There is also a max-width/height and a min-width/height which set the maximum and minimum size of an element. To add a style tag you would do this, <p style="height: 200px; width: 200px; background-color: red;">. To put it in your css, you would first have to open up your style. Then inside the style you would put this .e1 { background-color: green; height: 200px; width: 200px; }

@@ -1,0 +1,5 @@
+## Errata and Security Advisories
+
+The software used to create an LFS system is constantly being updated and enhanced. Security warnings and bug fixes may become available after the LFS book has been released. To check whether the package versions or instructions in this release of LFS need any modifications to accommodate security vulnerabilities or other bug fixes, please visit [https://www.linuxfromscratch.org/lfs/errata/11.1/](https://www.linuxfromscratch.org/lfs/errata/11.1/) before proceeding with your build. You should note any changes shown and apply them to the relevant section of the book as you progress with building the LFS system.
+
+In addition, the Linux From Scratch editors maintain a list of security vulnerabilities discovered after a book was released. To check whether there are any active security vulnerabilities, please visit [https://www.linuxfromscratch.org/lfs/advisories/](https://www.linuxfromscratch.org/lfs/advisories/) prior to proceeding with your build. You should note any advisories and perform the steps to fix any security vulnerabilities as you progress with building the LFS system.

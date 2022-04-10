@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "33d6d945b8b7c658",
+    "type": "split",
+    "children": [
+      {
+        "id": "859b3d032ca998bd",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7eabaadb423a6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "392f78f7c6324e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487ee883b75fc574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "519fd7d7095310da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "function",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 191
+  },
+  "right": {
+    "id": "459cc7d94487eb40",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb94771eabc25f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a50fc56f932715",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "859b3d032ca998bd",
+  "lastOpenFiles": [
+    "attributes.md",
+    "Programming/Contructs/Classes.md",
+    "class.md",
+    "Programming/Contructs/union.md",
+    "Programming/Contructs/struct.md",
+    "Programming/Contructs/static member.md",
+    "Programming/Contructs/storage duration.md",
+    "Programming/Rust/12 Days Of Christmas.md",
+    "Programming/Contructs/Definitions.md",
+    "Programming/Contructs/“Object Oriented Programming” (OOP).md"
+  ]
+}

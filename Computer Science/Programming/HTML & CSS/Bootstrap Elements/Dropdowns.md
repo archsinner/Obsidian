@@ -1,0 +1,5 @@
+# Dropdowns
+[[HTML & CSS]]
+---
+
+Use any element to open the dropdown content, i.e. a <button> element. Use a container element (like <div>) to create the dropdown navbar and add what you want inside of it. Wrap a <div> element around the elements to position the dropdown content correctly with CSS. Regarding CSS, The ".dropdown" class uses "position:relative;", which is needed for the content inside the dropdown to be placed right below the dropdown button (using position:absolute). The :hover selector is used to show the dropdown menu when the user moves the mouse over the dropdown button. The effect of ".dropdown" and others being a class is that it can be applied to other elements. In the context of dropdowns, one sensible use of this would be putting a dropdown inside of a list, to create a dropdown from a navbar.

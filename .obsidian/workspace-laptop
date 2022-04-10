@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "33d6d945b8b7c658",
+    "type": "split",
+    "children": [
+      {
+        "id": "142c4754761f0e1b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7eabaadb423a6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85315d96f26b327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487ee883b75fc574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "519fd7d7095310da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "right": {
+    "id": "459cc7d94487eb40",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb94771eabc25f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a50fc56f932715",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "142c4754761f0e1b",
+  "lastOpenFiles": [
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Gen-01.md",
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
+    "Religion/Christianity/The Bible/The Bible.md",
+    "Religion/Christianity/Christianity.md",
+    "Math/Math.md",
+    "Computer Science/Programming/Rust/The Rust Programming Language.md",
+    "Computer Science/Programming/Elixir/Elixir.md",
+    "Computer Science/Operating Systems/Linux/LFS/LFS.md",
+    "Computer Science/Operating Systems/Linux/LFS/I. Introduction/Chapter 1. Introduction/1. Introduction/How to Build an LFS System.md",
+    "Computer Science/Operating Systems/Linux/LFS/II. Preparing for the Build/Chapter 2. Preparing the Host System/Chapter 2 Introduction.md"
+  ]
+}
