@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religion/Christianity/Christianity.md",
+            "file": "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
             "mode": "source",
             "source": false
           }
@@ -85,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Christianity/Christianity.md",
+                "file": "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -104,15 +104,15 @@
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
-    "Religion/Christianity/Christianity.md",
-    "Religion/Christianity/The Bible/The Bible.md",
-    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
     "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
+    "Religion/Christianity/The Bible/Scripture/28 - Hosea/Hosea.md",
+    "Religion/Christianity/The Bible/Scripture/28 - Hosea/Hos-01.md",
+    "Religion/Christianity/The Bible/Scripture/28 - Hosea/Hos-02.md",
+    "Religion/Christianity/The Bible/The Bible.md",
+    "Religion/Christianity/The Bible/Scripture/64 - 3 John/3 John-01.md",
+    "Religion/Christianity/Christianity.md",
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
     "Religion/Christianity/The Bible/Scripture/09 - 1 Samuel/1 Samuel.md",
-    "Computer Science/Programming/Programming.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Networking/Networking.md",
-    "Computer Science/Programming/Rust/The Rust Programming Language.md",
-    "Religion/Christianity/The Bible/Scripture/24 - Jeremiah/Jeremiah.md"
+    "Computer Science/Programming/Programming.md"
   ]
 }
