@@ -312,7 +312,7 @@ For information on the different lists, how to subscribe, archive locations, and
 
 ### 1.4.3. IRC
 
-Several members of the LFS community offer assistance on Internet Relay Chat (IRC). Before using this support, please make sure that your question is not already answered in the LFS FAQ or the mailing list archives. You can find the IRC network at `irc.libera.chat`. The support channel is named #lfs-support.
+Several members of the LFS community offer assistance on Internet Relay Chat (IRC). Before using this support, please make sure that your question is not already answered in the LFS FAQ or the mailing list archives. You can find the IRC network at `irc.libera.chat`. The support channel is named [[lfs-support]].
 
 ### 1.4.4. Mirror Sites
 

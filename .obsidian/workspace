@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "142c4754761f0e1b",
+        "id": "47feeebe3ae3c766",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Religion/Christianity/Christianity.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -56,8 +60,24 @@
     "type": "split",
     "children": [
       {
+        "id": "290e8b72e88f3e6a",
+        "type": "tabs",
+        "dimension": 39.068825910931174,
+        "children": [
+          {
+            "id": "142c4754761f0e1b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "acb94771eabc25f8",
         "type": "tabs",
+        "dimension": 60.93117408906883,
         "children": [
           {
             "id": "b3a50fc56f932715",
@@ -65,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Religion/Christianity/Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,20 +100,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 280
   },
-  "active": "142c4754761f0e1b",
+  "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
-    "Religion/Christianity/The Bible/Scripture/10 - 2 Samuel/2 Samuel.md",
+    "Religion/Christianity/Christianity.md",
+    "Religion/Christianity/The Bible/The Bible.md",
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
+    "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
     "Religion/Christianity/The Bible/Scripture/09 - 1 Samuel/1 Samuel.md",
-    "Religion/Christianity/The Bible/Scripture/08 - Ruth/Ruth.md",
-    "Religion/Christianity/The Bible/Scripture/07 - Judges/Judges.md",
-    "Religion/Christianity/The Bible/Scripture/06 - Joshua/Josh-01.md",
-    "Religion/Christianity/The Bible/Scripture/04 - Numbers/Numbers.md",
-    "Religion/Christianity/The Bible/Scripture/05 - Deuteronomy/Deuteronomy.md",
-    "Religion/Christianity/The Bible/Scripture/06 - Joshua/Joshua.md",
-    "Religion/Christianity/The Bible/Scripture/04 - Numbers/Num-20.md",
-    "Religion/Christianity/The Bible/Scripture/03 - Leviticus/Leviticus.md"
+    "Computer Science/Programming/Programming.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Networking/Networking.md",
+    "Computer Science/Programming/Rust/The Rust Programming Language.md",
+    "Religion/Christianity/The Bible/Scripture/24 - Jeremiah/Jeremiah.md"
   ]
 }

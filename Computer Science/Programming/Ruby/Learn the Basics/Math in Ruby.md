@@ -16,6 +16,6 @@ Two other less-familiar but important operators are `**` and `%`.
 `%` is a little weird. In Ruby, it isn't percent, it is modulo. Modulo is like division, but it gives you just the remainder of a division problem.
 
 ```ruby
-moduloAnswer=5%2 #moduloAnswer=1
-exponentAnswer=2**3 #exponentAnswer=8
+moduloAnswer=5%2 [[moduloAnswer]]=1
+exponentAnswer=2**3 [[exponentAnswer]]=8
 ```

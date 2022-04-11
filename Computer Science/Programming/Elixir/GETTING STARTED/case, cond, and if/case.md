@@ -71,7 +71,7 @@ iex> f = fn
 ...>   x, y when x > 0 -> x + y
 ...>   x, y -> x * y
 ...> end
-#Function<12.71889879/2 in :erl_eval.expr/5>
+[[Function]]<12.71889879/2 in :erl_eval.expr/5>
 iex> f.(1, 3)
 4
 iex> f.(-1, 3)

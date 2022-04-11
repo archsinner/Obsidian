@@ -8,12 +8,12 @@ Comparison of arrays Shell can handle arrays An array is a variable containing m
 # basic construct
 # array=(value1 value2 ... valueN)
 array=(23 45 34 1 2 3)
-#To refer to a particular value (e.g. : to refer 3rd value)
+[[To]] refer to a particular value (e.g. : to refer 3rd value)
 echo ${array[2]}
 
-#To refer to all the array values
+[[To]] refer to all the array values
 echo ${array[@]}
 
-#To evaluate the number of elements in an array
+[[To]] evaluate the number of elements in an array
 echo ${#array[@]}
 ```

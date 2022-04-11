@@ -15,5 +15,5 @@ I'm a comment!
 Single-line comments can be started after another thing in the same line.
 
 ```ruby
-puts "Hi!" #I'm a comment, but Hi! will still be printed to the console.
+puts "Hi!" [[I]]'m a comment, but Hi! will still be printed to the console.
 ```

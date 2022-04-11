@@ -14,7 +14,7 @@ Recursion always consists of two main parts. A terminating case that indicates w
 For example, this function will perform multiplication by recursively adding :
 
 ```c
-#include <stdio.h>
+[[include]] <stdio.h>
 
 unsigned int multiply(unsigned int x, unsigned int y)
 {

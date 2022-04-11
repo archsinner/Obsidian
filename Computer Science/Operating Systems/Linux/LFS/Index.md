@@ -109,7 +109,7 @@
 -   **Util-linux:**[Util-linux-2.37.4](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html#ch-system-util-linux)
     -   **tools:**[Util-linux-2.37.4](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html#ch-tools-util-linux)
 -   **Vim:**[Vim-8.2.4383](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html#ch-system-vim)
--   **XML::Parser:**[XML::Parser-2.46](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html#ch-system-xml-parser)
+-   **XML==Parser:**[XML==Parser-2.46](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html#ch-system-xml-parser)
 -   **Xz:**[Xz-5.2.5](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html#ch-system-xz)
     -   **tools:**[Xz-5.2.5](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html#ch-tools-xz)
 -   **Zlib:**[Zlib-1.2.11](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html#ch-system-zlib)

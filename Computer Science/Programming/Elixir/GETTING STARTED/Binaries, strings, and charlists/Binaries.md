@@ -39,7 +39,7 @@ iex> x
 There are a couple other modifiers that can be useful when doing pattern matches on binaries. The `binary-size(n)` modifier will match `n` bytes in a binary:
 
 ```
-iex> <<head::binary-size(2), rest::binary>> = <<0, 1, 2, 3>>
+iex> <<head==binary-size(2), rest==binary>> = <<0, 1, 2, 3>>
 <<0, 1, 2, 3>>
 iex> head
 <<0, 1>>
@@ -96,7 +96,7 @@ Above, `x` matched on only the first byte of the multibyte `ü` character.
 Therefore, when pattern matching on strings, it is important to use the `utf8` modifier:
 
 ```
-iex> <<x::utf8, rest::binary>> = "über"
+iex> <<x==utf8, rest==binary>> = "über"
 "über"
 iex> x == ?ü
 true

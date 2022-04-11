@@ -5,7 +5,7 @@ Elixir also provides anonymous functions. Anonymous functions allow us to store 
 
 ```
 iex> add = fn a, b -> a + b end
-#Function<12.71889879/2 in :erl_eval.expr/5>
+[[Function]]<12.71889879/2 in :erl_eval.expr/5>
 iex> add.(1, 2)
 3
 iex> is_function(add)
@@ -31,7 +31,7 @@ Finally, anonymous functions can also access variables that are in scope when th
 
 ```
 iex> double = fn a -> add.(a, a) end
-#Function<6.71889879/1 in :erl_eval.expr/5>
+[[Function]]<6.71889879/1 in :erl_eval.expr/5>
 iex> double.(2)
 4
 ```

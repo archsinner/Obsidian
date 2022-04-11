@@ -17,7 +17,7 @@ Every C program uses libraries, which give the ability to execute necessary func
 To add the ability to run the `printf` command to our program, we must add the following include directive to our first line of the code:
 
 ```c
-#include <stdio.h>
+[[include]] <stdio.h>
 ```
 
 The second part of the code is the actual code which we are going to write. The first code which will run will always reside in the `main` function.

@@ -9,7 +9,7 @@ You previously learned what is a pointer and how to manipulate pointers. In this
 Just like any variable the ++ operation increases the value of that variable. In our case here the variable is a pointer hence when we increase its value we are increasing the address in the memory that pointer points to. Let's combine this operation with an array in our example:
 
 ```c
-#include <stdio.h>
+[[include]] <stdio.h>
 
 int main()
 {
@@ -34,7 +34,7 @@ int main()
 Just like in our previous example we increased the pointer's pointed-to address by one using the ++ operator, we can decrease the address pointed-to by one using the decrement operator (--).
 
 ```c
-#include <stdio.h>
+[[include]] <stdio.h>
 
 int main()
 {
@@ -59,7 +59,7 @@ int main()
 We previously increased a pointer's pointed-to address by one. We can also increase it by an integer value such:
 
 ```c
-#include <stdio.h>
+[[include]] <stdio.h>
 
 int main()
 {
@@ -86,7 +86,7 @@ Note how in the output the address shifted by 8 steps in the memory. You might b
 Similarly we can subtract:
 
 ```c
-#include <stdio.h>
+[[include]] <stdio.h>
 
 int main()
 {

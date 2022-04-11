@@ -162,11 +162,11 @@ The :empty selector applies only to elements that are empty and contain only whi
 ```html
 <style>
 ul li {
-    background-color: #cff;
+    background-color: [[cff]];
 }
 
 ul li:empty {
-    background-color: #fcf;
+    background-color: [[fcf]];
 }
 </style>
 <ul>

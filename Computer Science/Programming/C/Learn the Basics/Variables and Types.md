@@ -14,9 +14,9 @@ The different types of variables define their bounds. A `char` can range only fr
 Note that C does _not_ have a boolean type. Usually, it is defined using the following notation:
 
 ```c
-#define BOOL char
-#define FALSE 0
-#define TRUE 1
+[[define]] BOOL char
+[[define]] FALSE 0
+[[define]] TRUE 1
 ```
 
 C uses arrays of characters to define strings, and will be explained in the Strings section.

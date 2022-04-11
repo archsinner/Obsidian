@@ -11,7 +11,7 @@ By default, variables are local to the scope in which they are defined. Variable
 Consider the following scenario – we want to count the runners participating in a race:
 
 ```c
-#include<stdio.h>
+[[include]]<stdio.h>
 int runner() {
     int count = 0;
     count++;
@@ -29,7 +29,7 @@ int main()
 We will see that `count` is not updated because it is removed from memory as soon as the function completes. If `static` is used, however:
 
 ```c
-#include<stdio.h>
+[[include]]<stdio.h>
 int runner()
 {
     static int count = 0;

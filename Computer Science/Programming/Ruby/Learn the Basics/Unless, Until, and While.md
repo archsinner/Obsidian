@@ -6,7 +6,7 @@ The `unless` statement is structured similarly to an `if` statement.
 
 ```ruby
 unless condition
-  #thing to be done if the condition is false
+  [[thing]] to be done if the condition is false
 end
 ```
 
@@ -16,7 +16,7 @@ It is basically the reverse of the if statement, because `if` statements will on
 
 ```ruby
 while condition
-    #something to do
+    [[something]] to do
 end
 ```
 
@@ -24,7 +24,7 @@ end
 
 ```ruby
 until condition
-    #something to do
+    [[something]] to do
 end
 ```
 

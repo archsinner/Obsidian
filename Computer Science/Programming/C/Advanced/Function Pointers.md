@@ -27,7 +27,7 @@ Again: 1. `*pf` is the function pointer. 2. `char*` is the return type of that f
 Ok enough with theory. Let's get our hands dirty with some real code. See this example:
 
 ```c
-#include <stdio.h>
+[[include]] <stdio.h>
 void someFunction(int arg)
 {
     printf("This is someFunction being called and arg is: %d\n", arg);
@@ -47,8 +47,8 @@ main()
 Remember `sort()` we talked about earlier? We can do the same with it. Instead of ordering a set in an ascending way we can do the opposite using our own comparison function as follows:
 
 ```c
-#include <stdio.h>
-#include <stdlib.h> //for qsort()
+[[include]] <stdio.h>
+[[include]] <stdlib.h> //for qsort()
 
 int compare(const void* left, const void* right)
 {
