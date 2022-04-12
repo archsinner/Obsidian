@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religion/Christianity/The Bible/The Bible.md",
+            "file": "Computer Science/Operating Systems/Linux/LFS/LFS.md",
             "mode": "source",
             "source": false
           }
@@ -61,24 +61,8 @@
     "type": "split",
     "children": [
       {
-        "id": "290e8b72e88f3e6a",
-        "type": "tabs",
-        "dimension": 39.068825910931174,
-        "children": [
-          {
-            "id": "142c4754761f0e1b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "acb94771eabc25f8",
         "type": "tabs",
-        "dimension": 60.93117408906883,
         "children": [
           {
             "id": "b3a50fc56f932715",
@@ -86,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Christianity/The Bible/The Bible.md",
+                "file": "Computer Science/Operating Systems/Linux/LFS/LFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,19 +85,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310
+    "width": 310,
+    "collapsed": true
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
-    "Religion/Christianity/The Bible/The Bible.md",
     "Computer Science/Operating Systems/Linux/LFS/LFS.md",
+    "Religion/Christianity/The Bible/The Bible.md",
+    "Religion/Christianity/Christianity.md",
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Gen-01.md",
     "Computer Science/Operating Systems/Linux/LFS/I. Introduction/Chapter 1. Introduction/1. Introduction/How to Build an LFS System.md",
     "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.15. Tcl-8.6.12.md",
     "Computer Science/Operating Systems/Linux/LFS/II. Preparing for the Build/Chapter 4. Final Preparations/Chapter 4 Introduction.md",
     "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.26. GCC-11.2.0.md",
-    "define.md",
-    "include.md",
-    "Computer Science/Operating Systems/Linux/LFS/I. Introduction/Chapter 1. Introduction/1. Introduction/Changelog.md",
-    "lfs-support.md"
+    "define.md"
   ]
 }
