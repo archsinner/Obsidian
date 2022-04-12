@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.26. GCC-11.2.0.md",
+            "file": "Religion/Christianity/The Bible/The Bible.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 270,
+    "collapsed": true
   },
   "right": {
     "id": "459cc7d94487eb40",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.26. GCC-11.2.0.md",
+                "file": "Religion/Christianity/The Bible/The Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +105,15 @@
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
+    "Religion/Christianity/The Bible/The Bible.md",
+    "Computer Science/Operating Systems/Linux/LFS/LFS.md",
+    "Computer Science/Operating Systems/Linux/LFS/I. Introduction/Chapter 1. Introduction/1. Introduction/How to Build an LFS System.md",
+    "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.15. Tcl-8.6.12.md",
+    "Computer Science/Operating Systems/Linux/LFS/II. Preparing for the Build/Chapter 4. Final Preparations/Chapter 4 Introduction.md",
     "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.26. GCC-11.2.0.md",
     "define.md",
     "include.md",
     "Computer Science/Operating Systems/Linux/LFS/I. Introduction/Chapter 1. Introduction/1. Introduction/Changelog.md",
-    "lfs-support.md",
-    "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
-    "Religion/Christianity/The Bible/Scripture/28 - Hosea/Hosea.md",
-    "Religion/Christianity/The Bible/Scripture/28 - Hosea/Hos-01.md",
-    "Religion/Christianity/The Bible/Scripture/28 - Hosea/Hos-02.md",
-    "Religion/Christianity/The Bible/The Bible.md"
+    "lfs-support.md"
   ]
 }
