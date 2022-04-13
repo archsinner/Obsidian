@@ -7,12 +7,8 @@
         "id": "47feeebe3ae3c766",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Operating Systems/Linux/LFS/LFS.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270,
-    "collapsed": true
+    "width": 270
   },
   "right": {
     "id": "459cc7d94487eb40",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Operating Systems/Linux/LFS/LFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +84,7 @@
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
+    "Computer Science/Programming/Julia/Julia.md",
     "Computer Science/Operating Systems/Linux/LFS/LFS.md",
     "Religion/Christianity/The Bible/The Bible.md",
     "Religion/Christianity/Christianity.md",
@@ -98,7 +93,6 @@
     "Computer Science/Operating Systems/Linux/LFS/I. Introduction/Chapter 1. Introduction/1. Introduction/How to Build an LFS System.md",
     "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.15. Tcl-8.6.12.md",
     "Computer Science/Operating Systems/Linux/LFS/II. Preparing for the Build/Chapter 4. Final Preparations/Chapter 4 Introduction.md",
-    "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.26. GCC-11.2.0.md",
-    "define.md"
+    "Computer Science/Operating Systems/Linux/LFS/IV. Building the LFS System/Chapter 8/8.26. GCC-11.2.0.md"
   ]
 }
