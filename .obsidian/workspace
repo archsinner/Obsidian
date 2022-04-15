@@ -7,8 +7,12 @@
         "id": "47feeebe3ae3c766",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Programming/Hugo/Business/Storm-OS Deployment.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Programming/Hugo/Business/Storm-OS Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
-    "Computer Science/Operating Systems/Operating Systems.md",
-    "Computer Science/Operating Systems/Linux/LFS/LFS.md",
-    "Religion/Christianity/The Bible/The Bible.md",
-    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
-    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Gen-01.md",
-    "README.md",
-    "Computer Science/Programming/Programming.md",
-    "Computer Science/Computer Science.md",
-    "History/History.md",
-    "Math/Math.md"
+    "Computer Science/Programming/Hugo/Business/Storm-OS Deployment.md",
+    "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
+    "Computer Science/Programming/Shell/Advanced Tutorials/Special Variables.md",
+    "Computer Science/Programming/Shell/Advanced Tutorials/Special Commands sed,awk,grep,sort.md",
+    "Computer Science/Programming/Shell/Advanced Tutorials/Regular Expressions.md",
+    "Computer Science/Programming/Shell/Advanced Tutorials/Process Substitution.md",
+    "Computer Science/Programming/Shell/Advanced Tutorials/Pipelines.md",
+    "Computer Science/Programming/Shell/Advanced Tutorials/Input Parameter Parsing.md",
+    "Computer Science/Programming/Shell/Advanced Tutorials/File Testing.md",
+    "Computer Science/Programming/Shell/Advanced Tutorials/Bash trap command.md"
   ]
 }
