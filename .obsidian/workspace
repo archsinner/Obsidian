@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Programming/Hugo/Business/storm-os.com/Downloads.md",
+            "file": "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming/Hugo/Business/storm-os.com/Downloads.md",
+                "file": "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
-    "Computer Science/Programming/Hugo/Business/storm-os.com/Downloads.md",
-    "Computer Science/Programming/Hugo/Business/storm-os.com/Home Page.md",
-    "Computer Science/Programming/Hugo/Business/storm-os.com/Donations.md",
-    "Computer Science/Programming/Hugo/Business/Storm-OS Deployment.md",
-    "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
-    "Computer Science/Programming/Shell/Advanced Tutorials/Special Variables.md",
-    "Computer Science/Programming/Shell/Advanced Tutorials/Special Commands sed,awk,grep,sort.md",
-    "Computer Science/Programming/Shell/Advanced Tutorials/Regular Expressions.md",
-    "Computer Science/Programming/Shell/Advanced Tutorials/Process Substitution.md",
-    "Computer Science/Programming/Shell/Advanced Tutorials/Pipelines.md"
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
+    "Religion/Christianity/The Bible/The Bible.md",
+    "Religion/Christianity/The Bible/Scripture/23 - Isaiah/Isaiah.md",
+    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Gen-01.md",
+    "Religion/Buddhism/Buddhism.md",
+    "Religion/Catholic/Catholic.md",
+    "Religion/Christianity/The Bible/Scripture/66 - Revelation/Rev-01.md",
+    "Religion/Christianity/The Bible/Scripture/66 - Revelation/Revelation.md",
+    "Computer Science/Programming/Rust/The Rust Programming Language.md",
+    "Computer Science/Programming/Rust/Chapter 6/6. Enums and Pattern Matching.md"
   ]
 }

@@ -51,3 +51,24 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 <p style="clear: both">Second paragraph</p>
 ```
+
+### How to get Images inside a div container
+Make sure you use display: inline-block
+
+```html
+.Photos{
+
+    display: inline-block;
+
+    background-color: #6e6e6e;
+
+    padding: 20%;
+
+    text-align: left;
+
+    border: #000000 solid 10px;
+
+    border-radius: 20%;
+
+}
+```
