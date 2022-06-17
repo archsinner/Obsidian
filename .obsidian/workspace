@@ -7,12 +7,8 @@
         "id": "47feeebe3ae3c766",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
-    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Genesis.md",
-    "Religion/Christianity/The Bible/The Bible.md",
-    "Religion/Christianity/The Bible/Scripture/23 - Isaiah/Isaiah.md",
-    "Religion/Christianity/The Bible/Scripture/01 - Genesis/Gen-01.md",
-    "Religion/Buddhism/Buddhism.md",
-    "Religion/Catholic/Catholic.md",
-    "Religion/Christianity/The Bible/Scripture/66 - Revelation/Rev-01.md",
-    "Religion/Christianity/The Bible/Scripture/66 - Revelation/Revelation.md",
-    "Computer Science/Programming/Rust/The Rust Programming Language.md",
-    "Computer Science/Programming/Rust/Chapter 6/6. Enums and Pattern Matching.md"
+    "README.md",
+    "Biology/Biology.md",
+    "Chemistry/Chemistry.md",
+    "History/History.md",
+    "Languages/Languages.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Security/Security.md",
+    "Computer Science/Networking/Networking.md",
+    "Computer Science/Programming/Programming.md",
+    "Computer Science/Standards/Standards.md"
   ]
 }
