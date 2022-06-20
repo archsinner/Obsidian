@@ -7,8 +7,12 @@
         "id": "47feeebe3ae3c766",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Religion/Christianity/The Bible/The Bible.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,12 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Religion/Christianity/The Bible/The Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -79,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310,
-    "collapsed": true
+    "width": 310
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
+    "Religion/Christianity/The Bible/The Bible.md",
     "README.md",
+    "Computer Science/Programming/Rust/Chapter 1/1.1. Installation.md",
+    "Computer Science/Programming/Rust/Chapter 1/1. Getting Started.md",
+    "Computer Science/Programming/Rust/The Rust Programming Language.md",
+    "Computer Science/Operating Systems/Linux/LFS/LFS.md",
     "Biology/Biology.md",
     "Chemistry/Chemistry.md",
     "History/History.md",
-    "Languages/Languages.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Security/Security.md",
-    "Computer Science/Networking/Networking.md",
-    "Computer Science/Programming/Programming.md",
-    "Computer Science/Standards/Standards.md"
+    "Languages/Languages.md"
   ]
 }
