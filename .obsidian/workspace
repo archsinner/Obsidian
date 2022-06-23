@@ -7,12 +7,8 @@
         "id": "47feeebe3ae3c766",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Religion/Christianity/The Bible/The Bible.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 270,
+    "collapsed": true
   },
   "right": {
     "id": "459cc7d94487eb40",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Christianity/The Bible/The Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310
+    "width": 310,
+    "collapsed": true
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
