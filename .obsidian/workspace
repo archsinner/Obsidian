@@ -7,8 +7,12 @@
         "id": "47feeebe3ae3c766",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Languages/Languages.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270,
-    "collapsed": true
+    "width": 270
   },
   "right": {
     "id": "459cc7d94487eb40",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Languages/Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "47feeebe3ae3c766",
   "lastOpenFiles": [
+    "Languages/Languages.md",
     "Religion/Christianity/The Bible/The Bible.md",
+    "Religion/Christianity/The Bible/Scripture/61 - 2 Peter/2 Pet-01.md",
+    "Computer Science/Programming/C/Learn the Basics/Hello, World!.md",
+    "Computer Science/Programming/C/C.md",
+    "Computer Science/Programming/C/Advanced/Pointers.md",
+    "Computer Science/Programming/C/The GNU C Reference Manual.md",
     "README.md",
     "Computer Science/Programming/Rust/Chapter 1/1.1. Installation.md",
-    "Computer Science/Programming/Rust/Chapter 1/1. Getting Started.md",
-    "Computer Science/Programming/Rust/The Rust Programming Language.md",
-    "Computer Science/Operating Systems/Linux/LFS/LFS.md",
-    "Biology/Biology.md",
-    "Chemistry/Chemistry.md",
-    "History/History.md",
-    "Languages/Languages.md"
+    "Computer Science/Programming/Rust/Chapter 1/1. Getting Started.md"
   ]
 }

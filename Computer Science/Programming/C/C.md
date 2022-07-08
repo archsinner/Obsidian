@@ -33,3 +33,6 @@ There is no need to download anything - Just click on the chapter you wish to be
 -   [[Pointer Arithmetics]]
 -   [[Function Pointers]]
 -   [[Bitmasks]]
+
+### The GNU C Reference Manual
+[[The GNU C Reference Manual]]

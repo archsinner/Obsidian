@@ -1,43 +1,7 @@
-# Good Basis to Languages
-[[README]]
-## Contents
--   [1Definitions](https://en.wikipedia.org/wiki/Language#Definitions)
-    -   [1.1Mental faculty, organ or instinct](https://en.wikipedia.org/wiki/Language#Mental_faculty,_organ_or_instinct)
-    -   [1.2Formal symbolic system](https://en.wikipedia.org/wiki/Language#Formal_symbolic_system)
-    -   [1.3Tool for communication](https://en.wikipedia.org/wiki/Language#Tool_for_communication)
-    -   [1.4Distinctive features of human language](https://en.wikipedia.org/wiki/Language#Distinctive_features_of_human_language)
--   [2Origin](https://en.wikipedia.org/wiki/Language#Origin)
--   [3Study](https://en.wikipedia.org/wiki/Language#Study)
-    -   [3.1Subdisciplines](https://en.wikipedia.org/wiki/Language#Subdisciplines)
-    -   [3.2Early history](https://en.wikipedia.org/wiki/Language#Early_history)
-    -   [3.3Modern linguistics](https://en.wikipedia.org/wiki/Language#Modern_linguistics)
--   [4Physiological and neural architecture of language and speech](https://en.wikipedia.org/wiki/Language#Physiological_and_neural_architecture_of_language_and_speech)
-    -   [4.1The brain](https://en.wikipedia.org/wiki/Language#The_brain)
-    -   [4.2Anatomy of speech](https://en.wikipedia.org/wiki/Language#Anatomy_of_speech)
--   [5Modality](https://en.wikipedia.org/wiki/Language#Modality)
--   [6Structure](https://en.wikipedia.org/wiki/Language#Structure)
-    -   [6.1Semantics](https://en.wikipedia.org/wiki/Language#Semantics)
-    -   [6.2Sounds and symbols](https://en.wikipedia.org/wiki/Language#Sounds_and_symbols)
-    -   [6.3Grammar](https://en.wikipedia.org/wiki/Language#Grammar)
-        -   [6.3.1Grammatical categories](https://en.wikipedia.org/wiki/Language#Grammatical_categories)
-        -   [6.3.2Word classes](https://en.wikipedia.org/wiki/Language#Word_classes)
-        -   [6.3.3Morphology](https://en.wikipedia.org/wiki/Language#Morphology)
-        -   [6.3.4Syntax](https://en.wikipedia.org/wiki/Language#Syntax)
-    -   [6.4Typology and universals](https://en.wikipedia.org/wiki/Language#Typology_and_universals)
--   [7Social contexts of use and transmission](https://en.wikipedia.org/wiki/Language#Social_contexts_of_use_and_transmission)
-    -   [7.1Usage and meaning](https://en.wikipedia.org/wiki/Language#Usage_and_meaning)
-    -   [7.2Acquisition](https://en.wikipedia.org/wiki/Language#Acquisition)
-    -   [7.3Culture](https://en.wikipedia.org/wiki/Language#Culture)
-    -   [7.4Writing, literacy and technology](https://en.wikipedia.org/wiki/Language#Writing,_literacy_and_technology)
-    -   [7.5Change](https://en.wikipedia.org/wiki/Language#Change)
-    -   [7.6Contact](https://en.wikipedia.org/wiki/Language#Contact)
--   [8Linguistic diversity](https://en.wikipedia.org/wiki/Language#Linguistic_diversity)
-    -   [8.1Languages and dialects](https://en.wikipedia.org/wiki/Language#Languages_and_dialects)
-    -   [8.2Language families of the world](https://en.wikipedia.org/wiki/Language#Language_families_of_the_world)
-    -   [8.3Language endangerment](https://en.wikipedia.org/wiki/Language#Language_endangerment)
--   [9See also](https://en.wikipedia.org/wiki/Language#See_also)
--   [10Notes](https://en.wikipedia.org/wiki/Language#Notes)
--   [11References](https://en.wikipedia.org/wiki/Language#References)
-    -   [11.1Works cited](https://en.wikipedia.org/wiki/Language#Works_cited)
--   [12Further reading](https://en.wikipedia.org/wiki/Language#Further_reading)
--   [13External links](https://en.wikipedia.org/wiki/Language#External_links)
+# Learning Languages
+Japanese
+Chinese
+German
+English
+French
+Spanish
