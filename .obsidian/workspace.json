@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "33d6d945b8b7c658",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e0a2d2acfda703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47feeebe3ae3c766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Chemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d376c6f8ece221be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pharmacology/Pharmacology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45d6a61a98e9da23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Psychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7eabaadb423a6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85315d96f26b327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487ee883b75fc574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "519fd7d7095310da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "right": {
+    "id": "459cc7d94487eb40",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb94771eabc25f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a50fc56f932715",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Psychology/Psychology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310,
+    "collapsed": true
+  },
+  "active": "487ee883b75fc574",
+  "lastOpenFiles": [
+    "Pharmacology/Pharmacology.md",
+    "Chemistry/Chemistry.md",
+    "Pharmacology.md",
+    "Biology/Biology.md",
+    "Languages/Languages.md",
+    "Religion/Christianity/The Bible/The Bible.md",
+    "Religion/Christianity/The Bible/Scripture/61 - 2 Peter/2 Pet-01.md",
+    "Computer Science/Programming/C/Learn the Basics/Hello, World!.md",
+    "Computer Science/Programming/C/C.md",
+    "Computer Science/Programming/C/Advanced/Pointers.md"
+  ]
+}
