@@ -5,3 +5,4 @@
 - [[Gentoo]]
 - [[FreeBSD]]
 - [[Archlinux]]
+- [[Windows]]
