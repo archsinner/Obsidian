@@ -2,8 +2,5 @@
   "baseFontSize": 16,
   "translucency": true,
   "cssTheme": "",
-  "accentColor": "#b23447",
-  "nativeMenus": true,
-  "theme": "system",
-  "showViewHeader": true
+  "accentColor": ""
 }
