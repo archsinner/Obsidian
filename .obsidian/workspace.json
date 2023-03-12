@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
+                "file": "Computer Science/Programming/Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
+                "file": "Computer Science/Programming/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,16 @@
   },
   "active": "a76c071e62052ea6",
   "lastOpenFiles": [
+    "Computer Science/Programming/Arduino/Arduino.md",
+    "Computer Science/Programming/Programming.md",
+    "Computer Science/Programming/Elixir/Elixir.md",
+    "Computer Science/Programming/Java/Java.md",
+    "Computer Science/Programming/PHP/PHP.md",
+    "Computer Science/Computer Science.md",
     "README.md",
+    "Math/Math.md",
+    "Computer Science/Operating Systems/Linux/LFS/LFS.md",
+    "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
     "Psychology/Psychology.md",
     "Pharmacology/Pharmacology.md",
     "Chemistry/Chemistry.md",
