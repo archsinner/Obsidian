@@ -16,5 +16,4 @@ notes I have taken.
 - [[Computer Science]]
 - [[Religion]]
 - [[Survival]]
-- [[Youtube]]
 

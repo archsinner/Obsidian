@@ -1,4 +1,5 @@
-# Learning Languages
+[[README]]
+
 Japanese
 Chinese
 German
