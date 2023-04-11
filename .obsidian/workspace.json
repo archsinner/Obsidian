@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f39447215ae1d6de",
+        "id": "a0d0a82165d98f26",
         "type": "tabs",
         "children": [
           {
-            "id": "a76c071e62052ea6",
+            "id": "c4119690e7c7bb11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Programming/Programming.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +99,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a76c071e62052ea6",
+  "active": "c4119690e7c7bb11",
   "lastOpenFiles": [
-    "Computer Science/Programming/Arduino/Arduino.md",
+    "Religion/Christianity/The Bible/The Bible.md",
     "Computer Science/Programming/Programming.md",
+    "Computer Science/Programming/Arduino/Arduino.md",
     "Computer Science/Programming/Elixir/Elixir.md",
     "Computer Science/Programming/Java/Java.md",
     "Computer Science/Programming/PHP/PHP.md",
@@ -122,7 +118,6 @@
     "Pharmacology.md",
     "Biology/Biology.md",
     "Languages/Languages.md",
-    "Religion/Christianity/The Bible/The Bible.md",
     "Religion/Christianity/The Bible/Scripture/61 - 2 Peter/2 Pet-01.md",
     "Computer Science/Programming/C/Learn the Basics/Hello, World!.md",
     "Computer Science/Programming/C/C.md"
