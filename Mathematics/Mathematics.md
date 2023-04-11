@@ -1,4 +1,3 @@
-# Mathematics
 [[README]]
 ## Contents
 -   [1Areas of mathematics](https://en.wikipedia.org/wiki/Mathematics#Areas_of_mathematics)

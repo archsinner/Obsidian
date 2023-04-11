@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0d0a82165d98f26",
+        "id": "6c42e672751a14fa",
         "type": "tabs",
         "children": [
           {
-            "id": "c4119690e7c7bb11",
+            "id": "85a3121b50a963fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -99,17 +99,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c4119690e7c7bb11",
+  "active": "85a3121b50a963fd",
   "lastOpenFiles": [
-    "Religion/Christianity/The Bible/The Bible.md",
+    "Computer Science/Standards/Hardware/Hardware.md",
+    "Computer Science/Standards/Standards.md",
+    "Computer Science/Standards/Software/Software.md",
+    "Computer Science/Standards/Hardware",
+    "Computer Science/Standards/Software",
+    "Computer Science/Security/Pen Testing/Pen Testing.md",
+    "Computer Science/Programming/Python/Python.md",
     "Computer Science/Programming/Programming.md",
+    "Mathematics/Mathematics.md",
+    "Religion/Christianity/The Bible/The Bible.md",
     "Computer Science/Programming/Arduino/Arduino.md",
     "Computer Science/Programming/Elixir/Elixir.md",
     "Computer Science/Programming/Java/Java.md",
     "Computer Science/Programming/PHP/PHP.md",
     "Computer Science/Computer Science.md",
     "README.md",
-    "Math/Math.md",
     "Computer Science/Operating Systems/Linux/LFS/LFS.md",
     "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
     "Psychology/Psychology.md",

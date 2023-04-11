@@ -12,7 +12,7 @@ notes I have taken.
 - [[Chemistry]]
 - [[History]]
 - [[Languages]]
-- [[Math]]
+- [[Mathematics]]
 - [[Computer Science]]
 - [[Religion]]
 - [[Survival]]
