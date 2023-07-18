@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "a04b5e3ed4839d29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,32 +114,33 @@
   },
   "active": "85a3121b50a963fd",
   "lastOpenFiles": [
+    "Computer Science/Security/Security.md",
+    "Computer Science/Security/Pen Testing/Pen Testing.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Networking/Networking.md",
+    "Computer Science/Networking/Protocols/Protocols.md",
+    "Computer Science/Programming/Programming.md",
+    "Computer Science/Programming/C/C.md",
+    "Computer Science/Programming/C/Advanced/Recursion.md",
+    "Computer Science/Programming/Go/Go.md",
+    "Computer Science/Programming/Go/Learn the Basics/Loops.md",
+    "Computer Science/Programming/Python/Python.md",
+    "README.md",
+    "Chemistry/Chemistry.md",
+    "Biology/Biology.md",
     "Religion/Christianity/The Bible/The Bible.md",
     "Languages/Languages.md",
-    "Chemistry/Chemistry.md",
-    "Computer Science/Computer Science.md",
     "Computer Science/Standards/Hardware/Hardware.md",
     "Computer Science/Standards/Standards.md",
     "Computer Science/Standards/Software/Software.md",
     "Computer Science/Standards/Hardware",
     "Computer Science/Standards/Software",
-    "Computer Science/Security/Pen Testing/Pen Testing.md",
-    "Computer Science/Programming/Python/Python.md",
-    "Computer Science/Programming/Programming.md",
     "Mathematics/Mathematics.md",
     "Computer Science/Programming/Arduino/Arduino.md",
     "Computer Science/Programming/Elixir/Elixir.md",
     "Computer Science/Programming/Java/Java.md",
     "Computer Science/Programming/PHP/PHP.md",
-    "README.md",
     "Computer Science/Operating Systems/Linux/LFS/LFS.md",
-    "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
-    "Psychology/Psychology.md",
-    "Pharmacology/Pharmacology.md",
-    "Pharmacology.md",
-    "Biology/Biology.md",
-    "Religion/Christianity/The Bible/Scripture/61 - 2 Peter/2 Pet-01.md",
-    "Computer Science/Programming/C/Learn the Basics/Hello, World!.md",
-    "Computer Science/Programming/C/C.md"
+    "Computer Science/Programming/HTML & CSS/HTML & CSS.md"
   ]
 }

@@ -2,5 +2,6 @@
   "baseFontSize": 16,
   "translucency": true,
   "cssTheme": "",
-  "accentColor": "#941e30"
+  "accentColor": "#941e30",
+  "nativeMenus": false
 }
