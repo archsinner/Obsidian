@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6c42e672751a14fa",
+        "id": "e3ec82cc8abda081",
         "type": "tabs",
         "children": [
           {
-            "id": "85a3121b50a963fd",
+            "id": "a9b5e8ed75726c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/History.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ad0dd02d4db3323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Criminal Justice/Technology/Technology.md",
+                "file": "Languages/Languages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 270,
+    "collapsed": true
   },
   "right": {
     "id": "459cc7d94487eb40",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Criminal Justice/Technology/Technology.md",
+                "file": "Languages/Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,12 +113,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "487ee883b75fc574",
+  "active": "a9b5e8ed75726c2e",
   "lastOpenFiles": [
-    "Criminal Justice/Criminal Justice.md",
-    "Criminal Justice/Technology/Technology.md",
-    "Criminal Justice/Technology",
+    "Untitled.md",
+    "Languages/Languages.md",
     "History/History.md",
+    "Criminal Justice/Technology/Technology.md",
+    "Criminal Justice/Criminal Justice.md",
+    "Criminal Justice/Technology",
     "Criminal Justice",
     "Computer Science/Security/Pen Testing/Pen Testing.md",
     "Computer Science/Security/Security.md",
@@ -149,13 +139,11 @@
     "Chemistry/Chemistry.md",
     "Biology/Biology.md",
     "Religion/Christianity/The Bible/The Bible.md",
-    "Languages/Languages.md",
     "Computer Science/Standards/Hardware/Hardware.md",
     "Computer Science/Standards/Hardware",
     "Computer Science/Standards/Software",
     "Mathematics/Mathematics.md",
     "Computer Science/Programming/Arduino/Arduino.md",
-    "Computer Science/Programming/Elixir/Elixir.md",
-    "Computer Science/Programming/Java/Java.md"
+    "Computer Science/Programming/Elixir/Elixir.md"
   ]
 }
