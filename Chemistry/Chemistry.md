@@ -1,5 +1,4 @@
-  
-# Chemistry
+
 [[README]]
 ## Contents
 -   [1Chemistry Etymology](https://en.wikipedia.org/wiki/Chemistry#Etymology)

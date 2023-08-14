@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ec82cc8abda081",
+        "id": "0c9a904a2c7d4047",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b5e8ed75726c2e",
+            "id": "13e15a320178d456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Languages.md",
+                "file": "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d28848dada93f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Chemistry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270,
-    "collapsed": true
+    "width": 270
   },
   "right": {
     "id": "459cc7d94487eb40",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Languages.md",
+                "file": "Chemistry/Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +125,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a9b5e8ed75726c2e",
+  "active": "8d28848dada93f86",
   "lastOpenFiles": [
+    "Medical/Medical.md",
+    "Mathematics/Mathematics.md",
+    "Medical",
     "Untitled.md",
+    "Untitled 1.md",
     "Languages/Languages.md",
+    "Pharmacology/Pharmacology.md",
+    "Psychology/Psychology.md",
     "History/History.md",
     "Criminal Justice/Technology/Technology.md",
     "Criminal Justice/Criminal Justice.md",
@@ -138,12 +156,7 @@
     "README.md",
     "Chemistry/Chemistry.md",
     "Biology/Biology.md",
-    "Religion/Christianity/The Bible/The Bible.md",
-    "Computer Science/Standards/Hardware/Hardware.md",
     "Computer Science/Standards/Hardware",
-    "Computer Science/Standards/Software",
-    "Mathematics/Mathematics.md",
-    "Computer Science/Programming/Arduino/Arduino.md",
-    "Computer Science/Programming/Elixir/Elixir.md"
+    "Computer Science/Standards/Software"
   ]
 }
