@@ -4,6 +4,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "vimMode": true,
+  "vimMode": false,
   "useMarkdownLinks": false
 }
