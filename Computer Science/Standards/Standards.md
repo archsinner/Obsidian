@@ -1,5 +1,0 @@
-[[Hardware]]
-[[Software]]
-
-
-[[Computer Science]]

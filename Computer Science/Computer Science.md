@@ -1,7 +1,7 @@
 [[README]]
 
 ## Contents
-- [[Standards]]
+- [[List of Computer Standards]]
 - [[Programming]]
 - [[Networking]]
 - [[Operating Systems]]

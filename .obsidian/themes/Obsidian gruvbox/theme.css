@@ -137,6 +137,8 @@ body
     --text-faint:                    var(--light1);
     --text-muted:                    var(--light2);
 
+    --link-url:                      var(--neutral-green);
+
     --h1-color:                      var(--neutral-red);
     --h2-color:                      var(--neutral-yellow);
     --h3-color:                      var(--neutral-green);
@@ -182,6 +184,8 @@ body
     --mermaid-note:                  var(--neutral-blue);
     --mermaid-actor:                 var(--dark2);
     --mermaid-loopline:              var(--neutral-blue);
+    --mermaid-exclude:               var(--dark4);
+    --mermaid-seqnum:                var(--dark0);
 
     --icon-color-hover:              var(--bright-red);
     --icon-color-focused:            var(--bright-blue);
@@ -240,6 +244,8 @@ body
     --text-faint:                    var(--dark3);
     --text-muted:                    var(--dark2);
 
+    --link-url:                      var(--neutral-green);
+
     --h1-color:                      var(--neutral-red);
     --h2-color:                      var(--neutral-yellow);
     --h3-color:                      var(--neutral-green);
@@ -285,6 +291,8 @@ body
     --mermaid-note:                  var(--bright-blue);
     --mermaid-actor:                 var(--light3);
     --mermaid-loopline:              var(--neutral-blue);
+    --mermaid-exclude:               var(--light2);
+    --mermaid-seqnum:                var(--light0);
 
     --icon-color-hover:              var(--bright-red);
     --icon-color-focused:            var(--bright-blue);
@@ -354,8 +362,8 @@ td
 
 .markdown-rendered mark
 {
-    background-color: var(--text-highlight-bg) !important;
-    color: var(--text-highlight-fg) !important;
+    background-color: var(--text-highlight-bg);
+    color: var(--text-highlight-fg);
 }
 
 .markdown-rendered mark a
@@ -398,6 +406,16 @@ pre[class*="language-"]
     line-height: var(--line-height-tight) !important;
 }
 
+.cm-url
+{
+    color: var(--link-url) !important;
+}
+
+.cm-url:hover
+{
+    color: var(--text-accent-color) !important;
+}
+
 /* Keep highlight/marks the same between viewer and editor. */
 .cm-highlight
 {
@@ -412,11 +430,21 @@ pre[class*="language-"]
     padding: 0.1em 0.25em;
 }
 
-/* Keep list bullet padding the same between viewer and editor. */
+.cm-line .cm-strong
+{
+    color: var(--bold-color) !important;
+}
+
+/*
+ * Keep list bullet padding the same between viewer and editor.
+ * This is annoying with the cursor in the editor as there is a gap.
+ */
+/*
 .cm-formatting-list
 {
     padding-right: 4px !important;
 }
+*/
 
 /*
  * Keep sub-list indenting the same between viewer and editor.
@@ -442,6 +470,22 @@ pre[class*="language-"]
 .mermaid .loopLine
 {
     stroke: var(--mermaid-loopline) !important;
+}
+
+.mermaid .loopText>tspan,
+.mermaid .entityLabel
+{
+    fill: var(--neutral-red) !important;
+}
+
+.mermaid .exclude-range
+{
+    fill: var(--mermaid-exclude) !important;
+}
+
+.mermaid .sequenceNumber
+{
+    fill: var(--mermaid-seqnum) !important;
 }
 
 .calendar .week-num
@@ -509,3 +553,27 @@ pre[class*="language-"]
     color: var(--bright-red);
 }
 
+body {
+    --callout-border-width: 1px;
+    --callout-border-opacity: 0.4;
+    /* Order as defined in app.css */
+    --callout-default: var(--neutral-blue_x);
+    --callout-note: var(--neutral-blue_x);
+    --callout-summary: var(--neutral-aqua_x);
+    --callout-info: var(--neutral-blue_x);
+    --callout-todo: var(--neutral-blue_x);
+    --callout-important: var(--neutral-aqua_x);
+    --callout-tip: var(--neutral-aqua_x);
+    --callout-success: var(--neutral-green_x);
+    --callout-question: var(--neutral-yellow_x);
+    --callout-warning: var(--neutral-orange_x);
+    --callout-fail: var(--neutral-red_x);
+    --callout-error: var(--neutral-red_x);
+    --callout-bug: var(--neutral-red_x);
+    --callout-example: var(--neutral-purple_x);
+    --callout-quote: var(--gray_x);
+}
+
+.callout {
+    background-color: rgba(var(--callout-color), 0.2);
+}

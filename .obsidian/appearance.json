@@ -1,7 +1,7 @@
 {
   "baseFontSize": 16,
   "translucency": true,
-  "cssTheme": "",
-  "accentColor": "#941e30",
+  "cssTheme": "Obsidian gruvbox",
+  "accentColor": "#136c22",
   "nativeMenus": false
 }

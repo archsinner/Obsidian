@@ -7,3 +7,16 @@ would like you can see my videos demostrating myself creating all these notes an
 giving the organization I think is best. Please refer to the Main file in graph view
 which will be the Main connection to all other files. 
 
+[[Biology]]
+[[Chemistry]]
+[[Computer Science]]
+[[Criminal Justice]]
+[[History]]
+[[Languages]]
+[[Mathematics]]
+[[Medical]]
+[[Pharmacology]]
+[[Psychiatry]]
+[[Psychology]]
+[[Religion]]
+[[Survival]]
