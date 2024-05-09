@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4062eb77869f9f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medical/Medical.md",
+                "file": "Mathematics/Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +137,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1c6217b01eff9e2b",
+  "active": "4062eb77869f9f2d",
   "lastOpenFiles": [
+    "Computer Science/Programming/Programming.md",
+    "Computer Science/Programming/Java/Advanced Topics/Abstract Classes.md",
+    "Computer Science/Programming/Python/Exercise 20.md",
+    "Computer Science/Programming/Python/Exercise 18.md",
+    "Computer Science/Programming/Python/Exercise 15.md",
+    "Computer Science/Programming/C/Advanced/Function Pointers.md",
+    "Computer Science/Programming/C/Advanced/Binary trees.md",
+    "Computer Science/Programming/C/Advanced/Arrays and Pointers.md",
+    "Computer Science/Programming/C/Learn the Basics/Arrays.md",
+    "Medical/Medical.md",
+    "Computer Science/Programming/Python/Next Steps.md",
+    "Computer Science/Programming/Python/Advice From An Old Programmer.md",
+    "Computer Science/Programming/Python/Appendix A Command Line Crash Course.md",
+    "Computer Science/Programming/Python/Exercise 8.md",
+    "Computer Science/Programming/Python/Exercise 13.md",
     "Mathematics/Mathematics.md",
     "Psychiatry/Psychiatry.md",
     "Pharmacology/Pharmacology.md",
-    "Medical/Medical.md",
     "Languages/Languages.md",
     "History/History.md",
     "Computer Science/Networking/Networking.md",
@@ -138,21 +165,7 @@
     "Chemistry/Chemistry.md",
     "Biology/Biology.md",
     "README.md",
-    "Religion/Religion.md",
-    "Cobol.md",
-    "Psychology/Psychology.md",
-    "Criminal Justice/Criminal Justice.md",
-    "Computer Science/Programming/Programming.md",
-    "Computer Science/Programming/Python/Python.md",
-    "Computer Science/Programming/Arduino/Arduino.md",
-    "Computer Science/Programming/C/C.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Programming/C/Learn the Basics/Hello, World!.md",
-    "Computer Science/Programming/C/The GNU C Reference Manual.md",
     "Criminal Justice/Law",
-    "Computer Science/Programming/JavaScript/JavaScript.md",
-    "Computer Science/Standards/Standards.md",
-    "Computer Science/Programming/HTML & CSS/HTML & CSS.md",
     "Medical",
     "Criminal Justice/Technology",
     "Criminal Justice",
